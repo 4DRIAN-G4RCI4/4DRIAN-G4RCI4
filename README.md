@@ -1,8 +1,5 @@
 <p align="left">Acerca de mí:<br>¡Hola! Soy Adrián 👋, un desarrollador mexicano con muchas ganas de aprender y explorar nuevas tecnologías 🚀. Actualmente me enfoco en generar pequeños procesos, pero mi objetivo es crecer y crear proyectos más grandes e importantes con el tiempo 💡. Cada oportunidad me permite mejorar y darle mi toque personal a lo que hago.<br><br>Me gusta entender a fondo lo que estoy haciendo, ya sea con bases de datos o en programación, pero lo que más disfruto es resolver problemas de manera eficiente 🛠️. Siempre intento que mi código sea claro, pero también funcional y fácil de mantener.<br><br>Lo que más me motiva es liderar equipos 👥. Me encanta compartir ideas y colaborar con otros para conseguir resultados que nos hagan sentir orgullosos. No busco solo cumplir con el trabajo, sino hacerlo de la mejor manera posible.<br><br>Siempre he creído que el trabajo en equipo es fundamental, y me esfuerzo por ser una influencia positiva, manteniendo una actitud proactiva y abierta a aprender de los demás 🤝. Si te gustaría trabajar con alguien que siempre está dispuesto a dar lo mejor de sí, ¡hablemos! ✨</p>
 
-###
-
-<img align="right" height="200" src="https://claudia.abril.com.br/wp-content/uploads/2020/01/gato-teclando.gif"  />
 
 ###
 

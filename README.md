@@ -73,10 +73,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/4DRIAN-G4RCI4/4DRIAN-G4RCI4/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/4DRIAN-G4RCI4/count.svg?"  />
-</div>
-
-###
